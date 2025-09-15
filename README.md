@@ -17,8 +17,7 @@
 
 ## Demo
 
-![KakaoTalk_Video_2025-09-15-13-44-07](https://github.com/user-attachments/assets/4a7f13cd-3fad-4b97-90a0-52273f7a40e1)
-![KakaoTalk_Video_2025-09-15-13-44-14](https://github.com/user-attachments/assets/c9957c45-efc3-496e-a113-b7165ad640d1)
+![KakaoTalk_Video_2025-09-15-15-17-55](https://github.com/user-attachments/assets/78716703-257e-42ec-96df-ae50d257b552)
 
 
 ## Tech Stack
