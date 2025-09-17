@@ -21,6 +21,7 @@
 
 
 ## Tech Stack
+<img src="htts://img.shields.io/badge/swift-#F05138?style=flat-square&logo=html5&logoColor=white"/>
 - Swift, Combine
 - UIKit
 - CoreBluetooth
