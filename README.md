@@ -22,9 +22,5 @@
 ## Tech Stack
 <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/uikit-%2396F3.svg?&style=for-the-badge&logo=uikit&logoColor=white" />
-<img src="https://img.shields.io/badge/corebluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-- Swift, Combine
-- UIKit
-- CoreBluetooth
-- Charts
+<img src="https://img.shields.io/badge/CoreBluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
+<img src="https://img.shields.io/badge/Charts-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
