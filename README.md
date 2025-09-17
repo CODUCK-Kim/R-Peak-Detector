@@ -20,7 +20,7 @@
 ![KakaoTalk_Video_2025-09-15-15-17-55](https://github.com/user-attachments/assets/78716703-257e-42ec-96df-ae50d257b552)
 
 ## Tech Stack
-<img src="htts://img.shields.io/badge/swift-#F05138?style=flat-square&logo=swift&logoColor=white"/><a/>
+<img src="https://img.shields.io/badge/roku-%23662D91.svg?&style=for-the-badge&logo=roku&logoColor=white" />
 - Swift, Combine
 - UIKit
 - CoreBluetooth
